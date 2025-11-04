@@ -1,0 +1,12 @@
+body{
+    background-color: #ededed;
+}
+
+#todoList li{
+    font-size: 32px;
+
+} 
+
+#todoList li i{
+    cursor: pointer;
+}
